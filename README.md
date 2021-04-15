@@ -1,6 +1,6 @@
 # nginx-redirect-generator
 
-Generate nginx redirects from two column excel file
+Generate nginx redirects from two column excel file **(ony supports .xls)**
 
 ## Requirements
 - python3
